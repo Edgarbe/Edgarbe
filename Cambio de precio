@@ -1,0 +1,9 @@
+   algoritmo convertidor $
+ definir a, b, c, como entero;
+a<-450;
+  mostrar "la tasa del dia es 450";
+ escribir "cantidad de dólares que desea ";
+leer b;
+c<-a*b;
+escribir "resutado", c;
+    finalgoritmo
